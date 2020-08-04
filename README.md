@@ -1,4 +1,4 @@
 
-#Vanilla Redux
+##Vanilla Redux
 
 Learning Redux
