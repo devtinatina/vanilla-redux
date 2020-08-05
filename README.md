@@ -4,4 +4,4 @@
 
 1. vanilla javascript counter
 2. fix vanilla javascript counter with redux
-3. g
+3. make todo list with vanilla javascript
